@@ -4,14 +4,14 @@ These were the materials directly referenced in the book. We've also included a 
 
 * [Preface](#preface)
 * [Chapter 1. Cloud Security, The Collaborative Game](#chapter-1-cloud-security-the-collaborative-game)
-* [Chapter 2. Playing to Win with Context and Collaboration](#tbd)
-* [Chapter 3: A Shadow Cloud Emerges: Immediate Visibility, Maintaining Control](#tbd)
-* [Chapter 4: Preventing Risk Early](#tbd)
-* [Chapter 5: Securing your Supply Chain](#tbd)
-* [Chapter 6: Continuous Delivery, Continuous Insecurity](#tbd)
-* [Chapter 7: Protecting Your Runtime](#tbd)
-* [Chapter 8: Data Security Posture Management](#tbd)
-* [Chapter 9: Building a CNAPP Culture](#tbd)
+* [Chapter 2. Playing to Win with Context and Collaboration](#chapter-2-playing-to-win-with-context-and-collaboration)
+* [Chapter 3: A Shadow Cloud Emerges: Immediate Visibility, Maintaining Control](#chapter-3-a-shadow-cloud-emerges-immediate-visibility-maintaining-control)
+* [Chapter 4: Preventing Risk Early](#chapter-4-preventing-risk-early)
+* [Chapter 5: Securing your Supply Chain](#chapter-5-securing-your-supply-chain)
+* [Chapter 6: Continuous Delivery, Continuous Insecurity](#chapter-6-continuous-delivery-continuous-insecurity)
+* [Chapter 7: Protecting Your Runtime](#chapter-7-protecting-your-runtime)
+* [Chapter 8: Data Security Posture Management](#chapter-8-data-security-posture-management)
+* [Chapter 9: Building a CNAPP Culture](#chapter-9-building-a-cnapp-culture)
 
 
 ## Preface
@@ -91,4 +91,3 @@ These were the materials directly referenced in the book. We've also included a 
 3. [The biggest data breach fines, penalties, and settlements so far](https://www.csoonline.com/article/567531/the-biggest-data-breach-fines-penalties-and-settlements-so-far.html)
 4. [Security Chaos Engineering: Sustaining Resilience in Software and Systems](https://www.securitychaoseng.com/)
 5. [What's Next in Cyber](https://www.paloaltonetworks.com/resources/research/whats-next-in-cyber)
-
