@@ -5,6 +5,11 @@ Cloud security can be overwhelming with numerous tools and constant alerts. Ente
 
 This repository is meant to accompany and augment the book with many useful references and guides we've found helpful while researching this broad and deep topic.
 
+## Resources
+We've created a list of useful materials that we believe will help you expand your knowledgebase if you wish to learn more about cloud native security.
+* (Resources referenced in the book)[book_resources.md]
+* (Other helpful articles, guides, videos, and workshops)[other_resources.md]
+
 ## Contributions
 We invite you to open issues or submit pull requests. Cloud security is a collaboration game and we can't do it alone.
 
